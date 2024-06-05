@@ -1,0 +1,6 @@
+{
+    "label": "Update ORM tables",
+    "type": "shell",
+    "command": "dart run build_runner build --delete-conflicting-outputs",
+    "problemMatcher": []
+}

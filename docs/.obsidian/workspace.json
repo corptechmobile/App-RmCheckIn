@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "19ec51d0b4b28fc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "726214536a201938",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d145a90ab32f56ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "anotações.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4bacefa5d6168d5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "anotações.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7175e2fa8ce44591",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b0837b9c56a930b",
+    "type": "split",
+    "children": [
+      {
+        "id": "610d26909fdfa738",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5754fc3d342e2c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a864ec39c3d4c12c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9f3a965ec8a769c3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "e757f24de2b91f45",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0aced67a032c44e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c07561f2566eb61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa2fb5391974706b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "anotações.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee698eeb55071c8f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "anotações.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d77ab1a77318699",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "694d69dfbac98218",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "anotações.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 505.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "7175e2fa8ce44591",
+  "lastOpenFiles": [
+    "Drawing 2024-02-21 10.27.16.excalidraw.md",
+    "anotações.md",
+    "rascunhos.md",
+    "anotações delivery.md",
+    "Drawing 2024-01-15 10.47.09.excalidraw.md",
+    "Drawing 2024-01-12 08.51.53.excalidraw.md"
+  ]
+}
